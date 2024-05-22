@@ -1,0 +1,1 @@
+create an .env file and put the openai api key in it for the project to work
